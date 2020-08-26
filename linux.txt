@@ -1,0 +1,46 @@
+linux;
+
+## its a freeware
+## it is open source software (the code is in open source you can customize on our requirement)
+eg android os....--> mi (miui+android os),realme(color os+android os);
+
+creating n directories in single command
+##mkdir dir{1..50}
+creating n files in single command 
+##touch dir{1..50}/file{1..100}----> each directorie contain 100 files
+there are lot of flavours in linux os
+##ubuntu
+##fedora
+##redhat(licensed)
+##centos(related to the redhat flavour)
+##śuse
+if you want to know about flavour names visit below website
+----> distrowatch.com
+
+
+
+
+
+
+
+users in linux ;
+two users------>normal user---->$(representing)
+               ------->super user/root user/admin--->#(representing)
+
+
+
+
+Basic Commands;
+1. pwd---> present working directory
+2.ls------> list out all files and directories
+3.mkdir-->to create a directory
+4.cd---> change directory
+5.touch-->to create an empty file
+6.rmdir--> remove directory
+7.rm-->remove file
+8.cal--->display current month calender
+9.date-->display current time and date
+10.help-->to display list of all commands
+11.clear-->to clear terminal (or) display
+12.exit--> to logout session
+13.hello--> to display brief system information 
